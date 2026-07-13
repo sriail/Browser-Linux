@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Browser Linux",
+  "short_name": "Linux",
+  "description": "Run a Light Linux terminal in your Browser",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e5e7eb",
+  "theme_color": "#25e69e",
+  "icons": [
+    {
+      "src": "/assets/logo-light.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
